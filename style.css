@@ -87,6 +87,9 @@ section { scroll-margin-top: 8rem; }
     display: block;
     width: min(32vh, 34rem);
     min-width: 24rem;
+    opacity: 1;
+    filter: none;
+    mix-blend-mode: normal;
     aspect-ratio: 1;
     border: 3px solid var(--blue);
     border-radius: 50%;
